@@ -1,6 +1,6 @@
 ### Hi Guys, My name is Henrique Matias Kronhardt!
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript | Dart/Flutter | PHP/CodeIgniter4
 
 - 📚 I'm Student of Analisys Sistems and Development! 
 
