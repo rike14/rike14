@@ -4,7 +4,7 @@
 
 - 📚 I'm Student of Analisys Sistems and Development! 
 
-- ©️ [Linktree](https://bit.ly/profile-card-henriquekronhardt)
+- ©️ [Profile-card](https://bit.ly/profile-card-henriquekronhardt)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rike14&theme=dark&show_icons=true">
