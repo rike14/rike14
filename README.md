@@ -19,6 +19,7 @@
   <img align="center" alt="Rike-NodeJs" height="140" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> 
   <img align="center" alt="Rike-Php" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">   
   <img align="center" alt="Rike-MySQL" height="100" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
+   <img align="center" alt="Rike-MongoDB" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> 
   <img align="center" alt="Rike-Flutter" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">     
 </div>
  <br><br>
