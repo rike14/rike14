@@ -16,6 +16,7 @@
   <img align="center" alt="Rike-CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
   <img align="center" alt="Rike-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rike-AngularJs" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Rike-ReactJS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Rike-NodeJs" height="140" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> 
   <img align="center" alt="Rike-Php" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">   
   <img align="center" alt="Rike-MySQL" height="100" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
