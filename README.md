@@ -23,6 +23,8 @@
    <img align="center" alt="Rike-MongoDB" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> 
   <img align="center" alt="Rike-Flutter" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">     
 </div>
+<img align="center" alt="Rike-Bootstrap" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">     
+</div>
  <br><br>
   <div>
   <a href="https://instagram.com/rikekronhardt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
