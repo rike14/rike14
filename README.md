@@ -1,6 +1,6 @@
 ### Hi Guys, My name is Henrique Matias Kronhardt!
 
-- 🌱 I’m currently learning Javascript | AngularJS | NodeJS | PHP | MySQL | MongoDB | Dart/Flutter
+- 🌱 I’m currently learning Javascript | React | Angular | NodeJS | PHP | MySQL | MongoDB
 
 - 📚 I'm Student of Analisys Sistems and Development! 
 
