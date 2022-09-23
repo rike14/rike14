@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Javascript | React | Angular | NodeJS | PHP | MySQL | MongoDB
 
-- 📚 I'm Student of Analisys Sistems and Development! 
+- 📚 Analisys Sistems and Development! 
 
 - ©️ [Profile-card](https://bit.ly/profile-card-henriquekronhardt)
 
