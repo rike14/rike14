@@ -1,6 +1,6 @@
 ### Hi Guys, My name is Henrique Matias Kronhardt!
 
-- 🌱 I’m currently learning Javascript | React | NodeJS | PHP | MySQL | MongoDB
+- 🌱 I’m currently learning Javascript | React | PHP | Laravel
 
 - 📚 Analisys Sistems and Development! 
 
