@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Javascript | React | PHP | Laravel
 
-- 📚 Analisys Sistems and Development! 
+- 📚 Software Analysis and Development! 
 
 - ©️ [Profile-card](https://bit.ly/profile-card-henriquekronhardt)
 
