@@ -1,8 +1,6 @@
 ### Hi Guys, My name is Henrique Matias Kronhardt!
 
-- 🌱 I’m currently learning Javascript | React | PHP | Laravel
-
-- 📚 Software Analysis and Development! 
+- 🌱 I’m currently learning React Native | React | PHP | Laravel 
 
 - ©️ [Profile-card](https://bit.ly/profile-card-henriquekronhardt)
 
