@@ -16,7 +16,7 @@
     <img align="center" alt="Rike-ReactJS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Rike-NodeJs" height="140" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> 
     <img align="center" alt="Rike-Php" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-    <img align="center" alt="Rike-Laravel" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">  
+    <img align="center" alt="Rike-Laravel" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg">  
      <img align="center" alt="Rike-MongoDB" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">       
 </div>
  <br><br>
