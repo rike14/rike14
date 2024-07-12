@@ -1,6 +1,6 @@
 ### Hi Guys, My name is Henrique Matias Kronhardt!
 
-- Flutter | React Native | React | Angular | Node | PHP | Laravel | Codeigniter 
+- Flutter | JavaScript | React Native | React | Angular | Node | PHP | Laravel | Codeigniter 
 
 - ©️ [Profile-card](https://bit.ly/profile-card-henriquekronhardt)
 
