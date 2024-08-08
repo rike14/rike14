@@ -1,7 +1,5 @@
 ### Hi Guys, My name is Henrique Matias Kronhardt!
 
-- ©️ [Profile-card](https://bit.ly/profile-card-henriquekronhardt)
-
 - 👨🏻‍💻 [Site](https://devhenriquekro.com.br/)
 
 <div>
