@@ -16,6 +16,7 @@
     <img align="center" alt="Rike-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rike-ReactJS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Rike-TypescriptJS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Rike-NextJS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Rike-AngularJS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
     <img align="center" alt="Rike-Codeigniter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg"> 
     <img align="center" alt="Rike-NodeJs" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> 
