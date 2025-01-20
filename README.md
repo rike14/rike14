@@ -22,12 +22,12 @@
     <img align="center" alt="Rike-Laravel" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg">
     <img align="center" alt="Rike-Codeigniter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
     <img align="center" alt="Rike-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Rike-Spring" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   </div>
 
    # Mobile
   <div style="display: inline_block;"> 
     <img align="center" alt="Rike-ReactNative" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
-    <img align="center" alt="Rike-Flutter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">   
   </div>
 
    # Databases
